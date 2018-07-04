@@ -1,6 +1,6 @@
 # SMS3
 Before Downloading the app first download the following:
-https://github.com/anggrayudi/android-hidden-api
+https://github.com/anggrayudi/android-hidden-api.
 Its best if you use Api 23.
 Then download and run.
 
